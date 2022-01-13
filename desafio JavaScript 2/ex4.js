@@ -1,0 +1,1 @@
+console.log(`estamos no ano ${new Date().getFullYear()}`)
